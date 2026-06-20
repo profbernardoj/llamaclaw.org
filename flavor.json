@@ -1,10 +1,9 @@
 {
-  "name": "Morpheus Skill",
-  "slug": "morpheus-skill",
-  "domain": "morpheusclaw.com",
-  "description": "The canonical Morpheus decentralized AI agent skill for OpenClaw",
-  "remote": "https://github.com/profbernardoj/morpheus-skill.git",
+  "name": "Llama Claw",
+  "slug": "llamaclaw",
+  "domain": "llamaclaw.org",
+  "description": "AI agent powered by Llama models",
+  "remote": "https://github.com/profbernardoj/llamaclaw.org.git",
   "defaultModel": "glm-5",
-  "persona": "Morpheus decentralized AI assistant",
-  "canonical": true
+  "persona": "Llama-focused AI assistant"
 }
